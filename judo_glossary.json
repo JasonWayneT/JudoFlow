@@ -1,0 +1,51 @@
+[
+  {
+    "romaji": "Seoi-nage",
+    "kanji": "背負い投げ",
+    "english": "Shoulder throw",
+    "category": "Nage-waza / Te-waza",
+    "variants": ["say o nage", "seoi nage", "seo nage", "soy nage", "say oy nage"]
+  },
+  {
+    "romaji": "Uchi-mata",
+    "kanji": "内股",
+    "english": "Inner thigh throw",
+    "category": "Nage-waza / Ashi-waza",
+    "variants": ["oochie mata", "uchi mata", "uchimata", "oochi mata"]
+  },
+  {
+    "romaji": "O-soto-gari",
+    "kanji": "大外刈",
+    "english": "Major outer reaping",
+    "category": "Nage-waza / Ashi-waza",
+    "variants": ["oh soto gari", "osoto gari", "oh soto", "osotogari"]
+  },
+  {
+    "romaji": "Tai-otoshi",
+    "kanji": "体落",
+    "english": "Body drop",
+    "category": "Nage-waza / Te-waza",
+    "variants": ["tie otoshi", "tai otoshi", "ty otoshi"]
+  },
+  {
+    "romaji": "Tomoe-nage",
+    "kanji": "巴投",
+    "english": "Circular throw",
+    "category": "Nage-waza / Ma-sutemi-waza",
+    "variants": ["tomoe nage", "tomoy nage", "toe moy nage"]
+  },
+  {
+    "romaji": "Randori",
+    "kanji": "乱取り",
+    "english": "Free practice/sparring",
+    "category": "Training",
+    "variants": ["ran dori", "randori", "ron dori"]
+  },
+  {
+    "romaji": "Uchi-komi",
+    "kanji": "打ち込み",
+    "english": "Repetition training",
+    "category": "Training",
+    "variants": ["oochie komi", "uchi komi", "uchikomi"]
+  }
+]
